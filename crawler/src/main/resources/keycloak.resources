@@ -1,0 +1,2 @@
+keycloak.security-constraints[0].authRoles[0]=citrine
+keycloak.security-constraints[0].securityCollections[0].patterns[0]=/hi/*
